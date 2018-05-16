@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>金山词霸鼠标取词</title>
+		<script type="text/javascript">
+			
+		chrome.extension.onRequest.addListener(function(event)
+		{
+			var plugin = document.getElementById("ciba_grabword_plugin");
+			plugin.SetGrabWord(event.data);
+		});
+			
+		</script>
+	</head>
+	<body>
+		<embed type="application/ciba-grabword-plugin" width="0" height="0" id="ciba_grabword_plugin">
+	</body>
+</html>

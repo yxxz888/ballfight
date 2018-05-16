@@ -1,0 +1,535 @@
+{
+    "frames": {
+        "bomb0001.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 67,
+                "y": 266
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0002.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 315,
+                "y": 322
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0003.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 315,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0004.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 253,
+                "y": 322
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0005.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 191,
+                "y": 322
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0006.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 129,
+                "y": 322
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0007.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 67,
+                "y": 321
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0008.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 253,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0009.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 191,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "bomb0010.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 61,
+                "x": 129,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 4
+            }
+        },
+        "normal0001.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 268,
+                "y": 202
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "roll0001.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 201,
+                "y": 202
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "roll0002.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 66,
+                "x": 268,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "roll0003.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 66,
+                "x": 134,
+                "y": 201
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "roll0004.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 268,
+                "y": 68
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0005.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0006.png": {
+            "frame": {
+                "h": 68,
+                "idx": 0,
+                "w": 66,
+                "x": 201,
+                "y": 133
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "roll0007.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 268,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0008.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 66,
+                "x": 201,
+                "y": 66
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        "roll0009.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 66,
+                "x": 134,
+                "y": 135
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "roll0010.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 67,
+                "y": 201
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "roll0011.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 0,
+                "y": 268
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "roll0012.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 66,
+                "x": 201,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "roll0013.png": {
+            "frame": {
+                "h": 66,
+                "idx": 0,
+                "w": 66,
+                "x": 134,
+                "y": 68
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        "roll0014.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 67,
+                "y": 133
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0015.png": {
+            "frame": {
+                "h": 68,
+                "idx": 0,
+                "w": 66,
+                "x": 0,
+                "y": 199
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "roll0016.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 134,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0017.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 67,
+                "y": 65
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "roll0018.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 66,
+                "x": 0,
+                "y": 133
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "roll0019.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 67,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "roll0020.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 66,
+                "x": 0,
+                "y": 68
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        }
+    },
+    "meta": {
+        "image": "ball1.png",
+        "prefix": "ball1/"
+    }
+}

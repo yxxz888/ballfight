@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:e:\LayaAir_workspace\BallFight/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:e:\LayaAir_workspace\BallFight/.actionScriptProperties.
+1,0.00,,0,output path:e:/LayaAir_workspace/BallFight/bin/h5/
+1,0.00,,0,Main Class:e:/LayaAir_workspace/BallFight/src/DocBallFight.as
+1,0.00,,0,output file:DocBallFight
+1,0.00,,0,compilerSourcePath e:/LayaAir_workspace/BallFight/libs/laya/src/
+
+1,0.00,,0,Compile Path:e:/LayaAir_workspace/BallFight/src/
+
+1,0.00,,0,Compile Path:e:/LayaAir_workspace/BallFight/libs/laya/src/
+
+1,0.00,e:/LayaAir_workspace/BallFight/src,0,Collect
+1,0.00,e:/LayaAir_workspace/BallFight/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.84,,0,Disable Flash3D e:/LayaAir_workspace/BallFight/src/DocBallFight.as
+12,89.84,e:/LayaAir_workspace/BallFight/bin/h5/DocBallFight.max.js,1243560,
+11,89.84,e:/LayaAir_workspace/BallFight/bin/h5/DocBallFight.max.html,895,
+******************************************************************************
+14,89.84,,0,

@@ -1,0 +1,5 @@
+<res>
+   <item name="startpanel/startbutton.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="ballfight/timeprogress.png" type="ProgressBar" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="endpanel/endpanelbtnok.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

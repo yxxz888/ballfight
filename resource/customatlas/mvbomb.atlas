@@ -1,0 +1,314 @@
+{
+    "frames": {
+        "mvbomb0001.png": {
+            "frame": {
+                "h": 299,
+                "idx": 0,
+                "w": 277,
+                "x": 270,
+                "y": 275
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 31,
+                "y": 31
+            }
+        },
+        "mvbomb0002.png": {
+            "frame": {
+                "h": 299,
+                "idx": 0,
+                "w": 277,
+                "x": 1513,
+                "y": 548
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 31,
+                "y": 31
+            }
+        },
+        "mvbomb0003.png": {
+            "frame": {
+                "h": 299,
+                "idx": 0,
+                "w": 277,
+                "x": 1235,
+                "y": 548
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 31,
+                "y": 31
+            }
+        },
+        "mvbomb0004.png": {
+            "frame": {
+                "h": 285,
+                "idx": 0,
+                "w": 302,
+                "x": 932,
+                "y": 561
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 18
+            }
+        },
+        "mvbomb0005.png": {
+            "frame": {
+                "h": 285,
+                "idx": 0,
+                "w": 302,
+                "x": 1477,
+                "y": 262
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 18
+            }
+        },
+        "mvbomb0006.png": {
+            "frame": {
+                "h": 285,
+                "idx": 0,
+                "w": 302,
+                "x": 879,
+                "y": 275
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 18
+            }
+        },
+        "mvbomb0007.png": {
+            "frame": {
+                "h": 292,
+                "idx": 0,
+                "w": 330,
+                "x": 601,
+                "y": 568
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "mvbomb0008.png": {
+            "frame": {
+                "h": 292,
+                "idx": 0,
+                "w": 330,
+                "x": 270,
+                "y": 575
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "mvbomb0009.png": {
+            "frame": {
+                "h": 292,
+                "idx": 0,
+                "w": 330,
+                "x": 548,
+                "y": 275
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "mvbomb0010.png": {
+            "frame": {
+                "h": 266,
+                "idx": 0,
+                "w": 269,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 40,
+                "y": 30
+            }
+        },
+        "mvbomb0011.png": {
+            "frame": {
+                "h": 266,
+                "idx": 0,
+                "w": 269,
+                "x": 0,
+                "y": 534
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 40,
+                "y": 30
+            }
+        },
+        "mvbomb0012.png": {
+            "frame": {
+                "h": 266,
+                "idx": 0,
+                "w": 269,
+                "x": 0,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 40,
+                "y": 30
+            }
+        },
+        "mvbomb0013.png": {
+            "frame": {
+                "h": 261,
+                "idx": 0,
+                "w": 285,
+                "x": 1191,
+                "y": 262
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 18
+            }
+        },
+        "mvbomb0014.png": {
+            "frame": {
+                "h": 261,
+                "idx": 0,
+                "w": 285,
+                "x": 1477,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 18
+            }
+        },
+        "mvbomb0015.png": {
+            "frame": {
+                "h": 261,
+                "idx": 0,
+                "w": 285,
+                "x": 1191,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 18
+            }
+        },
+        "mvbomb0016.png": {
+            "frame": {
+                "h": 274,
+                "idx": 0,
+                "w": 306,
+                "x": 884,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 17
+            }
+        },
+        "mvbomb0017.png": {
+            "frame": {
+                "h": 274,
+                "idx": 0,
+                "w": 306,
+                "x": 577,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 17
+            }
+        },
+        "mvbomb0018.png": {
+            "frame": {
+                "h": 274,
+                "idx": 0,
+                "w": 306,
+                "x": 270,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 330,
+                "w": 330
+            },
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 17
+            }
+        }
+    },
+    "meta": {
+        "image": "mvbomb.png",
+        "prefix": "mvbomb/"
+    }
+}

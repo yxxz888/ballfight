@@ -1,0 +1,671 @@
+{
+    "frames": {
+        "mvbigwave0001.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 755,
+                "x": 515,
+                "y": 648
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 210
+            }
+        },
+        "mvbigwave0002.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 754
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 211
+            }
+        },
+        "mvbigwave0003.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 825
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 213
+            }
+        },
+        "mvbigwave0004.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 893
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 214
+            }
+        },
+        "mvbigwave0005.png": {
+            "frame": {
+                "h": 63,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 959
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 215
+            }
+        },
+        "mvbigwave0006.png": {
+            "frame": {
+                "h": 60,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 1023
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 216
+            }
+        },
+        "mvbigwave0007.png": {
+            "frame": {
+                "h": 58,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 1084
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 217
+            }
+        },
+        "mvbigwave0008.png": {
+            "frame": {
+                "h": 55,
+                "idx": 0,
+                "w": 755,
+                "x": 0,
+                "y": 1143
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 219
+            }
+        },
+        "mvbigwave0009.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 714,
+                "x": 0,
+                "y": 1199
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 220
+            }
+        },
+        "mvbigwave0010.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 613,
+                "x": 0,
+                "y": 1252
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 65,
+                "y": 220
+            }
+        },
+        "mvbigwave0011.png": {
+            "frame": {
+                "h": 58,
+                "idx": 0,
+                "w": 514,
+                "x": 0,
+                "y": 695
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 121,
+                "y": 218
+            }
+        },
+        "mvbigwave0012.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 722
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 215
+            }
+        },
+        "mvbigwave0013.png": {
+            "frame": {
+                "h": 68,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 787
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 213
+            }
+        },
+        "mvbigwave0014.png": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 856
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 211
+            }
+        },
+        "mvbigwave0015.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 929
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0016.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 1008
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0017.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 1087
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0018.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 756,
+                "y": 1166
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0019.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 715,
+                "y": 1245
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0020.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 316
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0021.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 79
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0022.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0023.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 158
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0024.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 79
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0025.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 237
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0026.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 158
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0027.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 316
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0028.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 237
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0029.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 395
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0030.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 208
+            }
+        },
+        "mvbigwave0031.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 474
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 212
+            }
+        },
+        "mvbigwave0032.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 395
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 216
+            }
+        },
+        "mvbigwave0033.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 545
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 220
+            }
+        },
+        "mvbigwave0034.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 485,
+                "x": 486,
+                "y": 458
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 223
+            }
+        },
+        "mvbigwave0035.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 485,
+                "x": 0,
+                "y": 600
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 150,
+                "y": 223
+            }
+        },
+        "mvbigwave0036.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 490,
+                "x": 486,
+                "y": 507
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 145,
+                "y": 223
+            }
+        },
+        "mvbigwave0037.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 496,
+                "x": 486,
+                "y": 554
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 139,
+                "y": 223
+            }
+        },
+        "mvbigwave0038.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 501,
+                "x": 486,
+                "y": 601
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 134,
+                "y": 223
+            }
+        },
+        "mvbigwave0039.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 507,
+                "x": 0,
+                "y": 648
+            },
+            "sourceSize": {
+                "h": 475,
+                "w": 755
+            },
+            "spriteSourceSize": {
+                "x": 128,
+                "y": 223
+            }
+        }
+    },
+    "meta": {
+        "image": "mvbigwave.png",
+        "prefix": "mvbigwave/"
+    }
+}

@@ -1,0 +1,824 @@
+{
+    "frames": {
+        "bombdead0001.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 518,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0002.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 430,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0003.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 430,
+                "y": 187
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0004.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 507,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0005.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 510,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0006.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 347,
+                "y": 395
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0007.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 427,
+                "y": 395
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0008.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 438,
+                "y": 278
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0009.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 510,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0010.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 587,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0011.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 590,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0012.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 507,
+                "y": 369
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0013.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 427,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0014.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 590,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0015.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 667,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0016.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 670,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0017.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 747,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0018.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 750,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0019.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 587,
+                "y": 364
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0020.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 598,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0021.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 670,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0022.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 667,
+                "y": 364
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0023.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 79,
+                "x": 678,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "bombdead0024.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 79,
+                "x": 750,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 16
+            }
+        },
+        "bombdead0025.png": {
+            "frame": {
+                "h": 106,
+                "idx": 0,
+                "w": 90,
+                "x": 170,
+                "y": 384
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "normal0001.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 80,
+                "x": 0,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "normal0002.png": {
+            "frame": {
+                "h": 97,
+                "idx": 0,
+                "w": 82,
+                "x": 0,
+                "y": 187
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 8
+            }
+        },
+        "normal0003.png": {
+            "frame": {
+                "h": 105,
+                "idx": 0,
+                "w": 85,
+                "x": 0,
+                "y": 285
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 0
+            }
+        },
+        "normaldead0001.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 84,
+                "x": 0,
+                "y": 391
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 11
+            }
+        },
+        "normaldead0002.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 84,
+                "x": 85,
+                "y": 391
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 11
+            }
+        },
+        "normaldead0003.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 83,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0004.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 86,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0005.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 86,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0006.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 169,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0007.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 172,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0008.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 86,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0009.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0010.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 172,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0011.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 255,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0012.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 258,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0013.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 172,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0014.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 258,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0015.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 341,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0016.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 344,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0017.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 258,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0018.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 261,
+                "y": 384
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0019.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 85,
+                "x": 344,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "normaldead0020.png": {
+            "frame": {
+                "h": 106,
+                "idx": 0,
+                "w": 90,
+                "x": 347,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 106,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "monster0.png",
+        "prefix": "monster0/"
+    }
+}
